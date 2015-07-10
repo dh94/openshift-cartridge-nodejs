@@ -1,5 +1,5 @@
 ---
-Name: nginx + npm
+Name: nginx-npm
 Description: Nginx and Custom Node.js cartridge auto-updating to the latest stable version on each build.
 Version: '1'
 License: Node.js License
