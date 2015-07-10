@@ -1,8 +1,0 @@
-{
-  "name": "openshift-cartridge-nodejs",
-  "version": "0.0.1",
-  "description": "A test application",
-  "main": "start.js",
-  "author": "Ionut-Cristian Florescu <ionut.florescu@gmail.com>",
-  "license": "MIT"
-}
