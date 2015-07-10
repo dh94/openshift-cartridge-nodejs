@@ -5,6 +5,8 @@ case "$1" in
     version="$2"
 esac
 
+client_message "parsing arguments"
+
 # Parse arguments
 source "lib/util"
 parse_args $@
