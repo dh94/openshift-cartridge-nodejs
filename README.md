@@ -13,7 +13,7 @@ When your application needs the latest npm installation.
 
 To install to OpenShift from the CLI, create your app and then run:
 
-rhc add-cartridge http://cartreflect-claytondev.rhcloud.com/reflect?github=twtstudio/openshift-npm
+rhc add-cartridge http://cartreflect-claytondev.rhcloud.com/reflect?github=dh94/openshift-cartridge-nodejs
 
 ## License
 
