@@ -1,6 +1,7 @@
 ---
 processed_templates:
 - '**/*.erb'
+- 'conf/*.erb'
 dependency_dirs:
 - ~/.npm
 - ~/.cache
